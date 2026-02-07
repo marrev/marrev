@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marrev
-- 👀 I’m interested in manga, eating, fantasy booking and cats
-- 🌱 I’m currently learning React
+- 👀 I’m interested in manga, eating, fantasy books and cats
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ? It's a good question
 
